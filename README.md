@@ -16,8 +16,6 @@
 - 📈 Tertarik di dunia trading: crypto futures & XAUUSD (gold)
 - 🤖 Lagi ngulik automation: trading bots & Expert Advisors (MQL5)
 - 🐧 Suka ngoprek VPS & Linux
-- 🌱 Akun baru — lagi bangun portofolio dari nol
-
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -47,7 +45,7 @@
 <p>
   <a href="https://github.com/dhosmatullah"><img src="https://img.shields.io/badge/GitHub-dhosmatullah-181717?style=for-the-badge&logo=github" /></a>
   <!-- Ganti dengan email asli -->
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-you@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto: dhosmatullah@gmail.com"><img src="https://img.shields.io/badge/Email-you@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
