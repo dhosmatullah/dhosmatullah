@@ -16,6 +16,8 @@
 - 📈 Tertarik di dunia trading: crypto futures & XAUUSD (gold)
 - 🤖 Lagi ngulik automation: trading bots & Expert Advisors (MQL5)
 - 🐧 Suka ngoprek VPS & Linux
+- 🌱 Akun baru — lagi bangun portofolio dari nol
+
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -29,7 +31,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dhosmatullah&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhosmatullah&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
+<!-- Trophy: pasang lagi setelah akun ada aktivitas (stars, commits, dll)
 <img src="https://github-profile-trophy.vercel.app/?username=dhosmatullah&theme=tokyonight&no-frame=true&column=7" />
+-->
 
 ### 🐍 Contributions
 
@@ -45,7 +49,7 @@
 <p>
   <a href="https://github.com/dhosmatullah"><img src="https://img.shields.io/badge/GitHub-dhosmatullah-181717?style=for-the-badge&logo=github" /></a>
   <!-- Ganti dengan email asli -->
-  <a href="mailto: dhosmatullah@gmail.com"><img src="https://img.shields.io/badge/Email-you@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-you@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
